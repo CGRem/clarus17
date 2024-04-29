@@ -1,0 +1,8 @@
+﻿  functions.cpp
+  mainform.cpp
+  objects.cpp
+  procedurs.cpp
+  Создание кода...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  functions.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  clarus17.vcxproj -> D:\user\C++\WIP\clarus17\x64\Debug\clarus17.exe
